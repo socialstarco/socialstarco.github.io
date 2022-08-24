@@ -414,21 +414,9 @@ h6,
 }
 
 @media (max-width: 991px) {
-  #hero {
-    height: calc(100vh - 72px);
-  }
-
   #hero .animated {
     -webkit-animation: none;
     animation: none;
-  }
-
-  #hero .hero-img {
-    text-align: center;
-  }
-
-  #hero .hero-img img {
-    width: 50%;
   }
 }
 
@@ -442,23 +430,8 @@ h6,
     font-size: 18px;
     line-height: 24px;
   }
-
-  #hero .hero-img img {
-    width: 70%;
-  }
 }
 
-@media (max-width: 575px) {
-  #hero .hero-img img {
-    width: 80%;
-  }
-}
-
-@media (max-height: 600px) {
-  #hero {
-    height: 120vh;
-  }
-}
 
 @-webkit-keyframes up-down {
   0% {
