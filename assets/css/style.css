@@ -394,7 +394,7 @@ h6,
   margin: 0 0 15px;
 } */
 
-.btn {
+.btn-custom {
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 1px;
@@ -407,7 +407,7 @@ h6,
   background: #333;
 }
 
-.btn:hover {
+.btn-custom:hover {
   background: #ef7f4d;
 }
 
@@ -1036,6 +1036,24 @@ section {
 }
 
 /*--------------------------------------------------------------
+# Work
+--------------------------------------------------------------*/
+@media (max-width: 767px) {
+
+  #work h1 {
+    font-size: 1.6rem;
+  }
+  #work h1 br {
+    display: none;
+  }
+  #work .col-lg-5 {
+    padding-bottom: 60px;
+    text-align: center;
+  }
+
+}
+
+/*--------------------------------------------------------------
 # Contact Us
 --------------------------------------------------------------*/
 .contact .info {
@@ -1385,12 +1403,18 @@ section {
 }
 
 @media (max-width: 575px) {
-
+  
   #footer .copyright,
   #footer .credits {
     float: none;
     -moz-text-align-last: center;
     text-align-last: center;
     padding: 3px 0;
+  }
+}
+
+@media (max-width: 768px) {
+  #footer .footer-top .footer-links ul i {
+    display: none;
   }
 }
