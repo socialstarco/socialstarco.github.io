@@ -1,3 +1,8 @@
 {  
-    "cleanUrls": true
+    "cleanUrls": true,
+    "trailingSlash": false,
+    "redirects": [
+        { "source": "/login", "destination": "https://app.socialstar.co/login", "permanent": false },
+        { "source": "/signup", "destination": "https://app.socialstar.co/signup", "permanent": false }
+    ]
 }
