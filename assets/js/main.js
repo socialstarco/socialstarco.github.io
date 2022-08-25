@@ -127,6 +127,10 @@
     }
   }, true)
 
+  on('click', '#pricingSwitch', function(e) {
+    select('#main').classList.toggle('monthly')
+  })
+
   /**
    * Scroll with ofset on page load with hash links in the url
    */

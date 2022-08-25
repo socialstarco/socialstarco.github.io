@@ -40,6 +40,51 @@ h6,
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
+
+.btn-custom {
+  font-weight: 500;
+  font-size: 1rem;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 8px 28px;
+  border-radius: 3px;
+  transition: 0.5s;
+  margin-top: 30px;
+  color: #fff;
+  background: #333;
+}
+
+.btn-custom:hover {
+  background: #666;
+  color: #fff;
+}
+
+.btn-outline-primary.accent {
+  color: #ff674f;
+  border-color: #ff674f;
+}
+
+.btn-outline-primary.accent:hover, .btn-outline-primary.accent:not(:disabled):not(.disabled).active, .btn-outline-primary.accent:not(:disabled):not(.disabled):active, .show>.btn-outline-primary.accent.dropdown-toggle {
+  color: #fff;
+  background-color: #ff674f;
+  border-color: #ff674f;
+}
+
+.btn-primary.accent {
+  color: #fff;
+  background-color: #ff674f;
+  border-color: #ff674f;
+}
+
+.btn-primary.accent:hover, .btn-primary.accent:not(:disabled):not(.disabled).active, .btn-primary.accent:not(:disabled):not(.disabled):active, .show>.btn-primary.accent.dropdown-toggle {
+  color: #fff;
+  background-color: #991500;
+  border-color: #991500;
+}
+
+/*--------------------------------------------------------------
+# Back to top button
+--------------------------------------------------------------*/
 .back-to-top {
   position: fixed;
   visibility: hidden;
@@ -398,24 +443,6 @@ h6,
   border-radius: 1.25rem;
 }
 
-.btn-custom {
-  font-weight: 500;
-  font-size: 1rem;
-  letter-spacing: 1px;
-  display: inline-block;
-  padding: 8px 28px;
-  border-radius: 3px;
-  transition: 0.5s;
-  margin-top: 30px;
-  color: #fff;
-  background: #333;
-}
-
-.btn-custom:hover {
-  background: #666;
-  color: #fff;
-}
-
 #hero .animated {
   animation: up-down 2s ease-in-out infinite alternate-reverse both;
 }
@@ -533,13 +560,8 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 15px 0;
-  background-color: #fef5f1;
+  background: linear-gradient(to bottom, #fdeee6 80%, #ffcdb2);
   min-height: 40px;
-}
-
-.breadcrumbs h2 {
-  font-size: 1.5rem;
-  font-weight: 300;
 }
 
 .breadcrumbs ol {
@@ -900,7 +922,7 @@ section {
   font-size: 1rem;
   position: absolute;
   right: 0;
-  top: -0;
+  top: 0;
 }
 
 .faq .faq-list p {
@@ -1053,6 +1075,44 @@ section {
 /*--------------------------------------------------------------
 # Work
 --------------------------------------------------------------*/
+
+#tables .content .fact {
+  padding-left: 30px;
+  padding-bottom: 10px;
+  position: relative;
+}
+
+#tables .content .fact:nth-last-child(1) {
+  padding-bottom: 0;
+}
+
+#tables .content .fact:nth-last-child(1) hh6 {
+  margin-bottom: 0;
+}
+
+#tables .content .fact i {
+  font-size: 1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+#main .show-annual {
+  display: initial;
+}
+
+#main .show-monthly {
+  display: none;
+}
+
+#main.monthly .show-annual {
+  display: none;
+}
+
+#main.monthly .show-monthly {
+  display: initial;
+}
+
 @media (max-width: 767px) {
 
   #work h1 {
@@ -1064,6 +1124,12 @@ section {
   #work .col-lg-5 {
     padding-bottom: 60px;
     text-align: center;
+  }
+  #tables {
+    padding: 30px 15px;
+  }
+  #tables .card {
+    margin-bottom: 2rem;
   }
 
 }
@@ -1311,7 +1377,7 @@ section {
 
 #footer .footer-top {
   padding: 60px 0 30px 0;
-  background: #fdeee6;
+  background: linear-gradient(to bottom, #fdeee6, #ffcdb2);
 }
 
 #footer .footer-top .footer-contact {
