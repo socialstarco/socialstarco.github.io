@@ -37,6 +37,10 @@ h6,
   color: #ff674f;
 }
 
+.bg-accent {
+  background-color: #ff674f;
+}
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -560,7 +564,8 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 15px 0;
-  background: linear-gradient(to bottom, #fdeee6 80%, #ffcdb2);
+  background: #fdeee6;
+  border-bottom: 1px solid #eee;
   min-height: 40px;
 }
 
@@ -1111,6 +1116,13 @@ section {
 
 #main.monthly .show-monthly {
   display: initial;
+}
+
+#tables .card .bg-accent {
+  margin-top: -5.25rem;
+  margin-bottom: 3rem;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
 }
 
 @media (max-width: 767px) {
