@@ -1,0 +1,846 @@
+[
+    {
+        "id": "ckhluuviv01aj0798v72czoeu",
+        "title": "Bollywood Quiz",
+        "picture_url": "http://res.cloudinary.com/dajnwgqm8/image/upload/v1610485154/ggwtjmthd1t0wswo21qm.jpg",
+        "description": "This is a fun session which will test your Bollywood music knowledge! With tracks from the 1940s to the 2000s, this is a great way to take a trip down Bollywood Memory Lane and enjoy your favorite songs in the form of a quiz. We will have rounds such as guess the song from the picture, guess the movie from the song, etc. It will be highly interactive and visual, with audio and video clippings in every round! Join in and feel free to bring your family for this Bollywood gala!",
+        "genre": "TEAM_ACTIVITIES",
+        "event_genres": [
+            {
+            "id": "ckj1xcoov004t0710zkqh9gxm",
+            "name": "Team Activities",
+            "__typename": "EventGenre"
+            }
+        ],
+        "audience": "BIG_GROUP",
+        "category": "A"
+    },
+    {
+        "id": "ckhluuvjj01ao0798fekdz3x8",
+        "title": "Calligraphy Workshop",
+        "picture_url": "http://res.cloudinary.com/dajnwgqm8/image/upload/v1610485160/mv9hthyvla70p2diwxze.jpg",
+        "description": "Calligraphy is a beautiful form of art, expressed through letters. In this beginner's workshop, learn to create stunning scripts with simple exercises. An increasingly digital world gives us little time to practise writing, but this workshop will help you reconnect with that magic of pen on paper.",
+        "genre": "ARTS",
+        "event_genres": [
+            {
+            "id": "ckj1xc9mh004607105pkytiur",
+            "name": "Arts",
+            "__typename": "EventGenre"
+            }
+        ],
+        "audience": "LARGER_GROUP",
+        "category": "A"
+    },
+    {
+        "id": "ckhluuvk701at0798zxvqi0qr",
+        "title": "Coffee Painting",
+        "picture_url": "http://res.cloudinary.com/dajnwgqm8/image/upload/v1610485168/rtcuilm4rw6rilgxmdkk.jpg",
+        "description": "At this unique art workshop, you'll discover that coffee isn't just for drinking! Coffee painting is a beautiful art that involves working with coffee powder/ black coffee, to create a monochrome piece of work. This fun workshop will teach you how to use a single colour to create a masterpiece.",
+        "genre": "ARTS",
+        "event_genres": [
+            {
+            "id": "ckj1xc9mh004607105pkytiur",
+            "name": "Arts",
+            "__typename": "EventGenre"
+            }
+        ],
+        "audience": "LARGER_GROUP",
+        "category": "A"
+    },
+    {
+        "id": "ckhluuvld01b30798yhp9j2es",
+        "title": "Crossfit",
+        "picture_url": "http://res.cloudinary.com/dajnwgqm8/image/upload/v1610485182/zoyzjagkgepcg72dmf8h.jpg",
+        "description": "A form of high intensity interval training, CrossFit is a strength and conditioning workout that is made up of functional movement performed at a high intensity level. Led by certified CrossFit instructors, this class will get you a step closer to those fitness goals.",
+        "genre": "HEALTH_AND_WELLNESS",
+        "event_genres": [
+            {
+            "id": "ckj1xc4h0003y0710av7j3gjw",
+            "name": "Health and Wellness",
+            "__typename": "EventGenre"
+            }
+        ],
+        "audience": "LARGER_GROUP",
+        "category": "A"
+    },
+    {
+        "id": "ckhluuvlz01b80798mcrsurjw",
+        "title": "Dance - Belly Dance",
+        "picture_url": "http://res.cloudinary.com/dajnwgqm8/image/upload/v1610485369/mpuikokgwk5v6k0sk1yb.jpg",
+        "description": "Get introduced to the beautiful art of belly-dancing in this fun workshop. This dance form - which dates back to the early 1800s - has made its way from Egypt to the world. With a focus on core strength and fluid movement, this workshop is a great way to clock in a workout.",
+        "genre": "DANCE",
+        "event_genres": [
+            {
+            "id": "ckj1xcdu1004e0710d41qofqk",
+            "name": "Dance",
+            "__typename": "EventGenre"
+            }
+        ],
+        "audience": "LARGER_GROUP",
+        "category": "A"
+    },
+    {
+        "id": "ckhluuvmr01bd0798odfx6lgq",
+        "title": "Dance - Bhangra",
+        "picture_url": "http://res.cloudinary.com/dajnwgqm8/image/upload/v1610485192/id9bgegvg46pu2rosren.jpg",
+        "description": "With origins in the state of Punjab, Bhangra has become one of the most popular dance forms of today. Combined with large movements, simple expressions and strong beats, this dance form is beautiful to watch and to perform. Join in for a super-fun bhangra class led by leading Bhangra choreographers, and get grooving!",
+        "genre": "DANCE",
+        "event_genres": [
+            {
+            "id": "ckj1xcdu1004e0710d41qofqk",
+            "name": "Dance",
+            "__typename": "EventGenre"
+            }
+        ],
+        "audience": "LARGER_GROUP",
+        "category": "A"
+    },
+    {
+        "id": "ckhluuvne01bi0798aqx9jzpa",
+        "title": "Dance - Bollywood",
+        "picture_url": "http://res.cloudinary.com/dajnwgqm8/image/upload/v1610485202/bblnaildc2k1z3ghlkor.jpg",
+        "description": "Since we're all home, let's use this time to channel the inner dancer in us! Learn steps to your favourite Bollywood tracks and clock in a workout at the same time. Bust all that stress with our portfolio of experienced dancers, as they guide you through fun and enjoyable choreographies.",
+        "genre": "DANCE",
+        "event_genres": [
+            {
+            "id": "ckj1xcdu1004e0710d41qofqk",
+            "name": "Dance",
+            "__typename": "EventGenre"
+            }
+        ],
+        "audience": "LARGER_GROUP",
+        "category": "A"
+    },
+    {
+        "id": "ckhluuvo201bn0798cqi6kayl",
+        "title": "Dance - Contemporary",
+        "picture_url": "http://res.cloudinary.com/dajnwgqm8/image/upload/v1610485211/kutxulrdxhten0l7txrt.jpg",
+        "description": "With its roots in ballet, contemporary dance is one of the most mesmerizing and beautiful forms of dance to watch and perform. At this introductory workshop, learn the basic elements of this style of dance and a simple routine. Led by leading choreographers, this workshop is a great start to the world of dance.",
+        "genre": "DANCE",
+        "event_genres": [
+            {
+            "id": "ckj1xcdu1004e0710d41qofqk",
+            "name": "Dance",
+            "__typename": "EventGenre"
+            }
+        ],
+        "audience": "LARGER_GROUP",
+        "category": "A"
+    },
+    {
+        "id": "ckhluuvov01bs0798odi3bsj0",
+        "title": "Dance - Fitness",
+        "picture_url": "http://res.cloudinary.com/dajnwgqm8/image/upload/v1610485220/xqwjtjwxnv1vucnqp0ga.jpg",
+        "description": "We're bringing to you the best of two worlds - dance and fitness, to give you an invigorating, fun and groovy workout. Dance to your favourite tunes, burn those calories, and get fit with your colleagues at these exclusive workout sessions by India's finest and fittest dancers.",
+        "genre": "HEALTH_AND_WELLNESS",
+        "event_genres": [
+            {
+            "id": "ckj1xc4h0003y0710av7j3gjw",
+            "name": "Health and Wellness",
+            "__typename": "EventGenre"
+            }
+        ],
+        "audience": "LARGER_GROUP",
+        "category": "A"
+    },
+    {
+        "id": "ckhluuvpi01bx0798jgs1s1gz",
+        "title": "Dance - Hiphop",
+        "picture_url": "http://res.cloudinary.com/dajnwgqm8/image/upload/v1610485230/dme9dgmzkeu7fs8sjvo6.jpg",
+        "description": "Pop, Lock and get ready for some hip-hop! Whether or not you've danced before, you have definitely moved along to a hip-hop track. These sessions will help bring out the street dancer in you, through guided hip-hop choreography lessons. Led by dancers who will leave you in awe, these dance workshops are going to be memorable.",
+        "genre": "DANCE",
+        "event_genres": [
+            {
+            "id": "ckj1xcdu1004e0710d41qofqk",
+            "name": "Dance",
+            "__typename": "EventGenre"
+            }
+        ],
+        "audience": "LARGER_GROUP",
+        "category": "A"
+    },
+    {
+        "id": "ckhluuvqb01c20798fdtw0rlp",
+        "title": "Dance - Jazz",
+        "picture_url": "http://res.cloudinary.com/dajnwgqm8/image/upload/v1610485240/zdcuthzekrwcsebgpyte.jpg",
+        "description": "Introduced in the early 1900s, jazz is a style of dance that incorporates unique moves, elaborate footwork and imaginative improvisation to bring an energetic and entertaining experience. The class will include a step-by-step guided routine, taught by leading Indian choreographers. No prior dance experience is required -  So join in to learn this exciting dance form from, and get those feet moving.",
+        "genre": "DANCE",
+        "event_genres": [
+            {
+            "id": "ckj1xcdu1004e0710d41qofqk",
+            "name": "Dance",
+            "__typename": "EventGenre"
+            }
+        ],
+        "audience": "LARGER_GROUP",
+        "category": "A"
+    },
+    {
+        "id": "ckhluuvqz01c70798jo2cu7hi",
+        "title": "Dance - Salsa",
+        "picture_url": "http://res.cloudinary.com/dajnwgqm8/image/upload/v1610485251/zr6rjh9znexvkud1cyik.jpg",
+        "description": "This famous dance form represents a mix of Latin musical genres and Cuban dance music. Dance away those monday-blues at this fun salsa workshop, and learn to groove to some great tunes. This workshop, with its fitness and creative elements, make for a perfect Saturday evening.",
+        "genre": "DANCE",
+        "event_genres": [
+            {
+            "id": "ckj1xcdu1004e0710d41qofqk",
+            "name": "Dance",
+            "__typename": "EventGenre"
+            }
+        ],
+        "audience": "LARGER_GROUP",
+        "category": "A"
+    },
+    {
+        "id": "ckhluuvsy01cm0798w8a5iz8m",
+        "title": "Doodling Workshop",
+        "picture_url": "http://res.cloudinary.com/dajnwgqm8/image/upload/v1610485361/b2tgp9zga4rllluto4pj.jpg",
+        "description": "A doodle is defined as 'A drawing made while a person's attention is otherwise occupied'. In this workshop, explore the power of using doodling as a medium of expression. This activity is a pure stress- buster, helps improve one's focus, and pushes you to think more creatively. Doodles can have concrete representational meaning or may just be composed of random and abstract lines - learn it all from our expert artists. All you need is a pen, paper and some 'you' time.",
+        "genre": "ARTS",
+        "event_genres": [
+            {
+            "id": "ckj1xc9mh004607105pkytiur",
+            "name": "Arts",
+            "__typename": "EventGenre"
+            }
+        ],
+        "audience": "BIG_GROUP",
+        "category": "A"
+    },
+    {
+        "id": "ckhluuvuu01d10798xzrijx4b",
+        "title": "Floral Painting Workshop",
+        "picture_url": "http://res.cloudinary.com/dajnwgqm8/image/upload/v1610523309/zer6bq7txlme4whdpbfa.jpg",
+        "description": "There is something deeply soothing about the natural symmetry, colour and form of floral blooms. In this workshop, learn to paint floral patterns and arrangements in a guided manner. Starting with a sketch, to detailing out the plant and then mixing the right colours to bring your art to life, this workshop will help you tap into your creative side. ",
+        "genre": "ARTS",
+        "event_genres": [
+            {
+            "id": "ckj1xc9mh004607105pkytiur",
+            "name": "Arts",
+            "__typename": "EventGenre"
+            }
+        ],
+        "audience": "LARGER_GROUP",
+        "category": "A"
+    },
+    {
+        "id": "ckhluuvvg01d60798wvghqfyq",
+        "title": "Grow your Kitchen-Garden",
+        "picture_url": "http://res.cloudinary.com/dajnwgqm8/image/upload/v1610523324/aadw7zadyl8kcbqh0mv7.jpg",
+        "description": "Growing your own vegetables can be fun as well as rewarding. All you need to get started is - some decent soil and few plants, to access fresh healthy vegetables in your own backyard. At this home-gardening workshop, learn to select the right location, the types and varieties of vegetables to plant, and how to keep your plants healthy as well as strong. This workshop will help you add that magical touch of green to your home.",
+        "genre": "ENVIRONMENT",
+        "event_genres": [
+            {
+            "id": "ckj1xcj8i004m0710y02xar3w",
+            "name": "Environment",
+            "__typename": "EventGenre"
+            }
+        ],
+        "audience": "LARGER_GROUP",
+        "category": "A"
+    },
+    {
+        "id": "ckhluuvw401db0798t8ci4ntp",
+        "title": "Housie With Team-Building",
+        "picture_url": "http://res.cloudinary.com/dajnwgqm8/image/upload/v1610523344/nrkkuuvn8swtdj4q4stw.jpg",
+        "description": "Once you start playing Housie, you don't want to stop! Housie is the perfect mix of fun, excitement, thrill, and interaction! The rules are simple: Every participant will be assigned a ticket with numbers written on (15 random numbers between 1 - 90). Our host will call out numbers in a random fashion. If you have those numbers on your ticket, you scratch them off! And the first few to scratch off a unique set (Example top row, 4 corners etc) will win prizes! We start with a round of introductions, and have a few team games lined-up in between.",
+        "genre": "TEAM_ACTIVITIES",
+        "event_genres": [
+            {
+            "id": "ckj1xcoov004t0710zkqh9gxm",
+            "name": "Team Activities",
+            "__typename": "EventGenre"
+            }
+        ],
+        "audience": "SMALL_GROUP",
+        "category": "A"
+    },
+    {
+        "id": "ckhluuvxr01dq0798932q0u5h",
+        "title": "Know-Your-Team",
+        "picture_url": "http://res.cloudinary.com/dajnwgqm8/image/upload/v1610523395/jwiqsijwxvkpkljwh9u9.jpg",
+        "description": "In this fun and interactive team-building session, get to know your colleagues in a new light. What's your colleagues' favourite dessert? Who is the most likely to work till 10 PM? Which team member is most likely to excel as a stand-up comic? We're going to help you uncover all of this through a host of fun games and activites. Led be an emcee who will leave you all laughing at the end of the session, this session is the perfect stress-buster.",
+        "genre": "TEAM_ACTIVITIES",
+        "event_genres": [
+            {
+            "id": "ckj1xcoov004t0710zkqh9gxm",
+            "name": "Team Activities",
+            "__typename": "EventGenre"
+            }
+        ],
+        "audience": "SMALL_GROUP",
+        "category": "A"
+    },
+    {
+        "id": "ckhluuw2l01eu0798puqoajih",
+        "title": "Mandala Art Therapy",
+        "picture_url": "http://res.cloudinary.com/dajnwgqm8/image/upload/v1610523617/st8lzvpie4lmge3sdto9.jpg",
+        "description": "Mandala, meaning 'circle', is a form of art that uses circles as a base to create beatiful symmetric patterns. Regarded for its therapeutic element, Mandala is an art form enjoyed by every one. No prior art experience is required; you will be guided in a step-by-step manner as you create your Mandala Masterpiece.",
+        "genre": "ARTS",
+        "event_genres": [
+            {
+            "id": "ckj1xc9mh004607105pkytiur",
+            "name": "Arts",
+            "__typename": "EventGenre"
+            }
+        ],
+        "audience": "BIG_GROUP",
+        "category": "A"
+    },
+    {
+        "id": "ckhluuw3401ez0798fl3akbcm",
+        "title": "Meditation",
+        "picture_url": "http://res.cloudinary.com/dajnwgqm8/image/upload/v1610523663/c23jdzo7q2dczrpmanr7.jpg",
+        "description": "In this fast-paced life, we all need to take a minute to slow down; more so, given the current circumstances. Meditation has been known to reduce stress, control anxiety, elevate emotional well-being and release happy hormones. Join in for a beginners' guided meditation session that will focus on breathing, and on developing a calm and positive outlook. All you need - a quiet spot in your home to practice from!",
+        "genre": "HEALTH_AND_WELLNESS",
+        "event_genres": [
+            {
+            "id": "ckj1xc4h0003y0710av7j3gjw",
+            "name": "Health and Wellness",
+            "__typename": "EventGenre"
+            }
+        ],
+        "audience": "LARGER_GROUP",
+        "category": "A"
+    },
+    {
+        "id": "ckhluuw3p01f407983bn9zbdq",
+        "title": "Nutrition",
+        "picture_url": "http://res.cloudinary.com/dajnwgqm8/image/upload/v1610523672/korgka5abavh9ufllydw.jpg",
+        "description": "The closer you are to nature, the healthier life you will lead. Truly words to live by, as practised and preached by our array of nutritionists. Learn about the art of healthy cooking, mindful eating, and living a balanced life.",
+        "genre": "HEALTH_AND_WELLNESS",
+        "event_genres": [
+            {
+            "id": "ckj1xc4h0003y0710av7j3gjw",
+            "name": "Health and Wellness",
+            "__typename": "EventGenre"
+            }
+        ],
+        "audience": "LARGER_GROUP",
+        "category": "A"
+    },
+    {
+        "id": "ckhluuw5b01fj0798bpftkg9p",
+        "title": "Painting Workshop",
+        "picture_url": "http://res.cloudinary.com/dajnwgqm8/image/upload/v1610523735/bx8acgo2lca4yf8lsgkk.jpg",
+        "description": "We all have pens, pencils, colours and paints tucked away in some corner of our homes - what better time to put them to use, than now? Draw and paint with your colleagues in these  fun art sessions and create your next masterpiece. No prior art is experience is requires; our expert artists from across India will guide you in a step-by-step manner. So come by and put those creative juices to use.",
+        "genre": "ARTS",
+        "event_genres": [
+            {
+            "id": "ckj1xc9mh004607105pkytiur",
+            "name": "Arts",
+            "__typename": "EventGenre"
+            }
+        ],
+        "audience": "BIG_GROUP",
+        "category": "A"
+    },
+    {
+        "id": "ckhluuw7801ft079898v20cdt",
+        "title": "Phone Photography (Intro)",
+        "picture_url": "https://res.cloudinary.com/dajnwgqm8/image/upload/c_thumb,w_600/v1597949972/experiences/Phone_Photography_Workshop.jpg",
+        "description": "In this refreshing workshop, learn to view your environment in a unique manner - through a lens! Led by out photography and artist expert - Smruthi, this workshop introduces you to the various elements that go into capturing your surroundings in the best way. From playing with light and shadow, to  textures, colours, and composition, this hands-on workshop will make you a better phone photographer!",
+        "genre": "CREATIVE",
+        "event_genres": [],
+        "audience": "SMALL_GROUP",
+        "category": "A"
+    },
+    {
+        "id": "ckhluuw9o01fy07985xaag8bf",
+        "title": "Pilates",
+        "picture_url": "https://res.cloudinary.com/dajnwgqm8/image/upload/c_thumb,w_600/v1589977166/experiences/pilates.jpg",
+        "description": "Our master instructors and trainers are here to give you a fun and challenging Pilates sessions, which will leave you feeling realigned, strong, and connected to your powerhouse - the core! Pilates is a fitness activity for everyone -- whether you suffer from aches and pains from a lack of movement or need to get better at your sport, these Pilates sessions are for you.",
+        "genre": "HEALTH_AND_WELLNESS",
+        "event_genres": [],
+        "audience": "LARGER_GROUP",
+        "category": "A"
+    },
+    {
+        "id": "ckhluuwhd01gd0798jggbcgbm",
+        "title": "Sketching Workshop",
+        "picture_url": "https://res.cloudinary.com/dajnwgqm8/image/upload/c_thumb,w_600/v1590520734/experiences/sketching.jpg",
+        "description": "We can all be artists! Create a complete sketch in a step by step guide at this sketching workshop curated by leading Indian artists. Learn the basics of sketching, colour theory and other such techniques. PS - No prior art experience required. Beginners are welcome.",
+        "genre": "ARTS",
+        "event_genres": [],
+        "audience": "BIG_GROUP",
+        "category": "A"
+    },
+    {
+        "id": "ckhluuwl601gs0798zhexuurz",
+        "title": "Strength & Conditioning Workout",
+        "picture_url": "https://res.cloudinary.com/dajnwgqm8/image/upload/c_thumb,w_600/v1589977168/experiences/strength-and-conditioning.jpg",
+        "description": "Led by highly qualified fitness experts, these group workouts are designed to help you achieve your fitness goals. We have aggregated classes from the best gyms, coaches and fitness instructors for your team. All you need to do is flex those muscles and hustle a little, for that step forward towards your fitness journey!",
+        "genre": "HEALTH_AND_WELLNESS",
+        "event_genres": [],
+        "audience": "LARGER_GROUP",
+        "category": "A"
+    },
+    {
+        "id": "ckhluux4f01hr0798gi3gb7ug",
+        "title": "Warli Painting",
+        "picture_url": "https://res.cloudinary.com/dajnwgqm8/image/upload/c_thumb,w_600/v1590521124/experiences/warli1.jpg",
+        "description": "Warli painting is a style of tribal art which originated in the North Sahyadri Range in India. Depicted by simple stick figures and activities, this traditional art form is a great way to explore a hidden Indian cultural gem! Led by expert artists, learn to create your Warli masterpiece in this guided workshop. No prior art experience is required.",
+        "genre": "ARTS",
+        "event_genres": [],
+        "audience": "BIG_GROUP",
+        "category": "A"
+    },
+    {
+        "id": "ckhluux5n01i10798voqowow9",
+        "title": "Yoga",
+        "picture_url": "https://res.cloudinary.com/dajnwgqm8/image/upload/c_thumb,w_600/v1590570674/experiences/yoga.jpg",
+        "description": "It's a busy world, and with the current circumstances, its more important than ever to be connected with ourselves. We have expert Hatha and Ashtange yoga practitioners from across the country, to bring you refreshing Yoga sessions full of positive energy. Stretch, workout and meditate your way to the path of inner peace and better health.",
+        "genre": "HEALTH_AND_WELLNESS",
+        "event_genres": [],
+        "audience": "LARGER_GROUP",
+        "category": "A"
+    },
+    {
+        "id": "ckhluux6q01ib0798k57uzhm4",
+        "title": "Zentangle Art",
+        "picture_url": "https://res.cloudinary.com/dajnwgqm8/image/upload/c_thumb,w_600/v1590521333/experiences/zentangle.jpg",
+        "description": "The Zentangle Method is an easy-to-learn, relaxing, and fun way to create beautiful images by drawing structured patterns. These patterns, called tangles, are a combination of dots, lines and simple curves. Join in for a quiet, creative evening with your team, and learn this beautiful form of art. No prior artistic experience is required!",
+        "genre": "ARTS",
+        "event_genres": [],
+        "audience": "BIG_GROUP",
+        "category": "A"
+    },
+    {
+        "id": "ckhluux7d01ig07985r96iu6f",
+        "title": "Zumba",
+        "picture_url": "https://res.cloudinary.com/dajnwgqm8/image/upload/c_thumb,w_600/v1589977171/experiences/zumba.jpg",
+        "description": "Get into your groove during this down-time and clock in a workout party with your colleagues. Put your phones away, learn some moves, listen to great music and burn those calories. Led by certified Zumba experts, this session is open to everyone, whether or not you have prior Zumba experience.",
+        "genre": "HEALTH_AND_WELLNESS",
+        "event_genres": [],
+        "audience": "LARGER_GROUP",
+        "category": "A"
+    },
+    {
+        "id": "ckhluuvgq019z0798lkc50571",
+        "title": "Asian Cooking",
+        "picture_url": "http://res.cloudinary.com/dajnwgqm8/image/upload/v1610485114/uxbrxu4lkacl6beiyzuh.jpg",
+        "description": "Recreate flavourful dishes from the streets of Asia in your very home. Led by expert chefs, this workshop will introduce you to the ingredients, flavours and spices used in Asian cooking, while demonstrating a simple dish(es). Learn the tips and tricks of fine Asian cooking from the masters themselves and treat yourself to a grand meal.",
+        "genre": "CREATIVE",
+        "event_genres": [
+            {
+            "id": "ckj1xbkdu003a0710i3hdgskp",
+            "name": "Creative",
+            "__typename": "EventGenre"
+            }
+        ],
+        "audience": "LARGER_GROUP",
+        "category": "B"
+    },
+    {
+        "id": "ckhluuvhc01a4079857la5itv",
+        "title": "Baking",
+        "picture_url": "http://res.cloudinary.com/dajnwgqm8/image/upload/v1610485123/uscf8iuthkynx1y1widn.jpg",
+        "description": "At these baking sessions, our versatile bakers are here to help you create magical desserts! Learn to create your favourite baked goodies, and satisfy all those sweet (and savoury) cravings. You'll learn a couple of simple dishes in every workshop, and a whole bunch of baking tips alongside.",
+        "genre": "CREATIVE",
+        "event_genres": [
+            {
+            "id": "ckj1xbkdu003a0710i3hdgskp",
+            "name": "Creative",
+            "__typename": "EventGenre"
+            }
+        ],
+        "audience": "LARGER_GROUP",
+        "category": "B"
+    },
+    {
+        "id": "ckhluuvks01ay0798lb6d80pa",
+        "title": "Creative Writing",
+        "picture_url": "http://res.cloudinary.com/dajnwgqm8/image/upload/v1610485175/scdtln1wbznd8ejdpcz7.jpg",
+        "description": "In this workshop, learn the craft of converting your thoughts to words. This workshop focuses on the development of style, tone and content of your writing. In the midst of a supportive writing community, you will learn to critically analyse a body of work, by identifying areas of strength and providing constructive suggestions. Foster that creativity, and unlock your potential as a creator of text!",
+        "genre": "CREATIVE",
+        "event_genres": [
+            {
+            "id": "ckj1xbkdu003a0710i3hdgskp",
+            "name": "Creative",
+            "__typename": "EventGenre"
+            }
+        ],
+        "audience": "SMALL_GROUP",
+        "category": "B"
+    },
+    {
+        "id": "ckhluuvrj01cc0798uae9ndfp",
+        "title": "Design and Sustainability",
+        "picture_url": "http://res.cloudinary.com/dajnwgqm8/image/upload/v1610485294/rkwtyj1hw9vras9ynklu.jpg",
+        "description": "Design is all around us - in the packaging of the products we buy, the clothes we choose to wear, and even the water we drink! So how then, can we make our daily choices so as to create minimal impact on planet earth? Learn all this and more at this exclusive workshop led by Sahar Mansoor, founder of Bare Necessities, and an Environment Champion. ",
+        "genre": "ENVIRONMENT",
+        "event_genres": [
+            {
+            "id": "ckj1xcj8i004m0710y02xar3w",
+            "name": "Environment",
+            "__typename": "EventGenre"
+            }
+        ],
+        "audience": "LARGER_GROUP",
+        "category": "B"
+    },
+    {
+        "id": "ckhluuvs701ch0798sssjeyor",
+        "title": "Design Thinking with Doodling",
+        "picture_url": "http://res.cloudinary.com/dajnwgqm8/image/upload/v1610485321/khfcpbshxiirtb7nz8lg.png",
+        "description": "Explore the power of imagination and design thinking, through a unique and interesting form of creative expression - doodling. Doodling empowers you to put down thoughts, ideas, and emotions that only float around in our subconscious mind. This session, led by Rohit Soni, will help you be creative as well as expressive. The session starts with the introduction of imagination, proceeds to cover the various elements of imagination, and is topped off with a host of exercises designed to push your creative boundaries and help you think out-of-the-box.",
+        "genre": "CREATIVE",
+        "event_genres": [
+            {
+            "id": "ckj1xbkdu003a0710i3hdgskp",
+            "name": "Creative",
+            "__typename": "EventGenre"
+            }
+        ],
+        "audience": "BIG_GROUP",
+        "category": "B"
+    },
+    {
+        "id": "ckhluuvth01cr0798ahmptnxr",
+        "title": "DSLR Photography Workshop",
+        "picture_url": "http://res.cloudinary.com/dajnwgqm8/image/upload/v1610485388/ahihfhv5ei0fn1tha3qf.jpg",
+        "description": "At this workshop, explore the fine art of photography with from the comfort of your home. Led by leading Indian photographers, learn to work your camera - what exactly is shutter speed, how should you be holding the camera and what makes a good picture. Express and share the stories around you through simple and well-composed photographs.",
+        "genre": "CREATIVE",
+        "event_genres": [
+            {
+            "id": "ckj1xbkdu003a0710i3hdgskp",
+            "name": "Creative",
+            "__typename": "EventGenre"
+            }
+        ],
+        "audience": "LARGER_GROUP",
+        "category": "B"
+    },
+    {
+        "id": "ckhluuvu501cw0798rdgatv5o",
+        "title": "Film-Making on Phone",
+        "picture_url": "http://res.cloudinary.com/dajnwgqm8/image/upload/v1610523301/yuj28ct14oouvanthbql.jpg",
+        "description": "Explore the art of film-making with a device that you almost always have on you: your phone! Films are not just about staged environments and larger-than-life sets and backdrops, they are about real people, real stories and real experiences. At this mobile film-making workshop, learn to capture, express and share the stories around you.",
+        "genre": "CREATIVE",
+        "event_genres": [
+            {
+            "id": "ckj1xbkdu003a0710i3hdgskp",
+            "name": "Creative",
+            "__typename": "EventGenre"
+            }
+        ],
+        "audience": "LARGER_GROUP",
+        "category": "B"
+    },
+    {
+        "id": "ckhluuvwo01dg0798jf3uy1b2",
+        "title": "Indian Cooking",
+        "picture_url": "http://res.cloudinary.com/dajnwgqm8/image/upload/v1610523372/fski86wpgtrdclx2izxy.jpg",
+        "description": "We've all become sous-chefs over the last few weeks.. Time to kick this up a notch, and become chefs! Our expert chefs are here to give your kitchen menu a spin, at these fun and informative sessions. Learn simple cuisines and dishes from around the world and make every meal one to remember.",
+        "genre": "CREATIVE",
+        "event_genres": [
+            {
+            "id": "ckj1xbkdu003a0710i3hdgskp",
+            "name": "Creative",
+            "__typename": "EventGenre"
+            }
+        ],
+        "audience": "LARGER_GROUP",
+        "category": "B"
+    },
+    {
+        "id": "ckhluuvx701dl0798aitf3u6m",
+        "title": "Italian Cooking",
+        "picture_url": "http://res.cloudinary.com/dajnwgqm8/image/upload/v1610523381/bcs39qx4or0xiwhudykn.jpg",
+        "description": "Since we can't travel to Italy any time soon, we're bringing all those Italian flavours straigh to your homes! Join in for this fun and informative Italian Cooking workshop, and learn to create perfectly seasoned Pastas, Pizzas and more!",
+        "genre": "CREATIVE",
+        "event_genres": [
+            {
+            "id": "ckj1xbkdu003a0710i3hdgskp",
+            "name": "Creative",
+            "__typename": "EventGenre"
+            }
+        ],
+        "audience": "LARGER_GROUP",
+        "category": "B"
+    },
+    {
+        "id": "ckhluuvye01dv07985dgxilzi",
+        "title": "Know-Your-Team (Bollywood)",
+        "picture_url": "http://res.cloudinary.com/dajnwgqm8/image/upload/v1610523406/xrijrzcjdpwa2eb4eoad.jpg",
+        "description": "In this team-building session, virtually hang-out with your colleagues, Bollywood style! Filled with quizzes, Antaksharis, and other Bollywood-themed activities and games, this session is the perfect stress-buster for your team. Led by our one of our favourite hosts, Aman Malhotra, treat your team to a unique musical evening.",
+        "genre": "TEAM_ACTIVITIES",
+        "event_genres": [
+            {
+            "id": "ckj1xcoov004t0710zkqh9gxm",
+            "name": "Team Activities",
+            "__typename": "EventGenre"
+            }
+        ],
+        "audience": "BIG_GROUP",
+        "category": "B"
+    },
+    {
+        "id": "ckhluuvzm01e5079803wd6djw",
+        "title": "Leading a Zero Waste Lifestyle",
+        "picture_url": "http://res.cloudinary.com/dajnwgqm8/image/upload/v1610523444/mrva7uc6z4ylu9byrkme.jpg",
+        "description": "This interactive workshop helps you go green! It is led by Sahar Mansoor, founder of Bare Necessities and an environment champion who leads a zero-waste lifestyle. The workshop will discuss how you can make your switch to a more environment-friendly way of living, and how you can reduce your daily carbon footprint.",
+        "genre": "ENVIRONMENT",
+        "event_genres": [
+            {
+            "id": "ckj1xcj8i004m0710y02xar3w",
+            "name": "Environment",
+            "__typename": "EventGenre"
+            }
+        ],
+        "audience": "LARGER_GROUP",
+        "category": "B"
+    },
+    {
+        "id": "ckhluuw4601f90798ezw6wdbs",
+        "title": "Organization and Wardrobe De-clutter",
+        "picture_url": "http://res.cloudinary.com/dajnwgqm8/image/upload/v1610523684/x5qzotf0k8jkrmcgms28.jpg",
+        "description": "In this workshop, our expert will help make your wardrobe look and feel like you're entering a well curated store, by introducing organization systems that are easy and sustainable. You will learn the art of optimizing your space, ideal folding/storage techniques, how to decide what you really require, and DIY organizers that you can make at home!",
+        "genre": "CREATIVE",
+        "event_genres": [
+            {
+            "id": "ckj1xbkdu003a0710i3hdgskp",
+            "name": "Creative",
+            "__typename": "EventGenre"
+            }
+        ],
+        "audience": "SMALL_GROUP",
+        "category": "B"
+    },
+    {
+        "id": "ckhluuw4s01fe07980x0usrb3",
+        "title": "Origami",
+        "picture_url": "https://res.cloudinary.com/dajnwgqm8/image/upload/c_thumb,w_600/v1589977166/experiences/origami.jpg",
+        "description": "There's something therapeutic about folding a sheet of paper and turning it into a boat, crane or plane. Let your creative streak flow, as you learn the nuances of this beautiful craft - Origami - and take back a mini masterpiece. Led by experienced Origami artists, this session is open to all - no prior art experience required.",
+        "genre": "ARTS",
+        "event_genres": [],
+        "audience": "SMALL_GROUP",
+        "category": "B"
+    },
+    {
+        "id": "ckhluuw5u01fo0798xh9xsdf6",
+        "title": "Phone Photography",
+        "picture_url": "https://res.cloudinary.com/dajnwgqm8/image/upload/c_thumb,w_600/v1589977175/experiences/phone-photography.jpg",
+        "description": "Explore the fine art of photography with a device that you almost always have on you: your phone! Led by leading Indian photographers, learn to capture, express and share the stories around you through simple and well-composed photographs. All you need - a phone and objects around the house!",
+        "genre": "CREATIVE",
+        "event_genres": [],
+        "audience": "LARGER_GROUP",
+        "category": "B"
+    },
+    {
+        "id": "ckhluuwgk01g80798uu3vur03",
+        "title": "Sing-Along Session",
+        "picture_url": "https://res.cloudinary.com/dajnwgqm8/image/upload/c_thumb,w_600/v1589977169/experiences/sing-along.jpg",
+        "description": "Remember when we were younger, family time meant sing-along time? We’re to recreating just that for you. This is an interactive team-building session moderated by experts, with the opportunity to spend quality time with your colleagues. Reminisce some good old music, sing along to famous Hindi tunes, old and new, and challenge your colleagues to do the same.",
+        "genre": "TEAM_ACTIVITIES",
+        "event_genres": [],
+        "audience": "SMALL_GROUP",
+        "category": "B"
+    },
+    {
+        "id": "ckhluuwki01gn0798h6lw8t5p",
+        "title": "Story Telling",
+        "picture_url": "https://res.cloudinary.com/dajnwgqm8/image/upload/c_thumb,w_600/v1590570799/experiences/story-telling.jpg",
+        "description": "Stories create magic and a sense of wonder at the world! Storytelling is effective because it activates a listener’s imagination, and is a craft that teaches you improvise. A tool for communication, interaction and learning, story-telling is for everyone.",
+        "genre": "CREATIVE",
+        "event_genres": [],
+        "audience": "SMALL_GROUP",
+        "category": "B"
+    },
+    {
+        "id": "ckhluuwoy01gx0798joc8c12s",
+        "title": "Theatre Workshop",
+        "picture_url": "https://res.cloudinary.com/dajnwgqm8/image/upload/c_thumb,w_600/v1590570753/experiences/theatre.jpg",
+        "description": "There’s a little bit of drama in all of us! Come and discover the inner artist in you, at this exciting and interactive induction to acting experience led by theatre professions. Learn about the nuances of expression, dialogue delivery and performance, and explore what it’s like to be on the other side of the camera.",
+        "genre": "CREATIVE",
+        "event_genres": [],
+        "audience": "SMALL_GROUP",
+        "category": "B"
+    },
+    {
+        "id": "ckhluuwpt01h20798fleh9oo4",
+        "title": "Up-cycling (Collage Making)",
+        "picture_url": "https://res.cloudinary.com/dajnwgqm8/image/upload/c_thumb,w_600/v1597952718/experiences/Up-cycling_Collage_Making.jpg",
+        "description": "In our current environment, it's imperative for us to be mindful of our carbon footprint. Upcycling, also known as creative reuse, is a great start to being sustainable. Upcycling is the process of transforming by- products and other wasteful materials into new materials or products. In this workshop, learn to create a beautiful collage. The last time we all did this was probably in school! All you need to create this fun piece of art is paper, textile rags, fevicol, buttons and some waste material. Feel free to invite your family/ children along for this fun session",
+        "genre": "CREATIVE",
+        "event_genres": [],
+        "audience": "LARGER_GROUP",
+        "category": "B"
+    },
+    {
+        "id": "ckhluuwqp01h70798pvmywhux",
+        "title": "Up-cycling (Desk organizers)",
+        "picture_url": "https://res.cloudinary.com/dajnwgqm8/image/upload/c_thumb,w_600/v1597952751/experiences/Up-cycling_Desk_organizers.jpg",
+        "description": "In our current environment, it's imperative for us to be mindful of our carbon footprint. Upcycling, also known as creative reuse, is a great start to being sustainable. Upcycling is the process of transforming by- products and other wasteful materials into new materials or products. In this workshop, learn to create desk organizers using an ancient method of craft - crochet! This makes for a perfect gift, or just a lovely DIY project for your personal work-from-home desk. Requirements: Old clothes, Old tshirts, scissors, needle and thread, crochet hook",
+        "genre": "CREATIVE",
+        "event_genres": [],
+        "audience": "LARGER_GROUP",
+        "category": "B"
+    },
+    {
+        "id": "ckhluuwth01hc0798ne39euot",
+        "title": "Up-cycling (Macrame bags)",
+        "picture_url": "https://res.cloudinary.com/dajnwgqm8/image/upload/c_thumb,w_600/v1597952777/experiences/Up-cycling_Macrame_bags.jpg",
+        "description": "In our current environment, it's imperative for us to be mindful of our carbon footprint. Upcycling, also known as creative reuse, is a great start to being sustainable. Upcycling is the process of transforming by- products and other wasteful materials into new materials or products. In this workshop, learn to create macrame bags - the beautoful cloth bag known for their boho-chic vibe! Perfect for a day out at the beach or for your grocery needs. All you need old clothes/ t-shirts, needle and thread. Join in and get crafty!",
+        "genre": "CREATIVE",
+        "event_genres": [],
+        "audience": "LARGER_GROUP",
+        "category": "B"
+    },
+    {
+        "id": "ckhluux2801hh0798ccycqp65",
+        "title": "Up-cycling (Mats & Laptop Sleeves)",
+        "picture_url": "https://res.cloudinary.com/dajnwgqm8/image/upload/c_thumb,w_600/v1597952803/experiences/Up-cycling_Mats_Laptop_Sleeves.jpg",
+        "description": "In our current environment, it's imperative for us to be mindful of our carbon footprint. Upcycling, also known as creative reuse, is a great start to being sustainable. Upcycling is the process of transforming by- products and other wasteful materials into new materials or products. In this workshop, learn to create mats and latop sleeves using using basic materials in your home - Old clothes, Old tshirts, scissors, needle and thread. Join this DIY session, led by craft and art experts, to get those creative juices flowing.",
+        "genre": "CREATIVE",
+        "event_genres": [],
+        "audience": "LARGER_GROUP",
+        "category": "B"
+    },
+    {
+        "id": "ckhluux3r01hm0798c3rwjvre",
+        "title": "Up-cycling (Tote Bags)",
+        "picture_url": "https://res.cloudinary.com/dajnwgqm8/image/upload/c_thumb,w_600/v1597952827/experiences/Up-cycling_Tote_Bags.jpg",
+        "description": "In our current environment, it's imperative for us to be mindful of our carbon footprint. Upcycling, also known as creative reuse, is a great start to being sustainable. Upcycling is the process of transforming by- products and other wasteful materials into new materials or products. In this workshop, learn to tote bags for your grocery needs/ as a simple carry-on bag using what is easily available in your home - Old tshirts! You also need scissors, needle and thread. Join in and revamp your wardrobe!",
+        "genre": "CREATIVE",
+        "event_genres": [],
+        "audience": "LARGER_GROUP",
+        "category": "B"
+    },
+    {
+        "id": "ckhluux5201hw07986fdwd055",
+        "title": "Waste Management",
+        "picture_url": "https://res.cloudinary.com/dajnwgqm8/image/upload/c_thumb,w_600/v1597952275/experiences/Waste_Management.jpg",
+        "description": "All those fruit and vegetable scraps don't belong in the dustbin but in your new compost pit! Learn how in this hands-on workshop led by Sahar Mansoor, founder of Bare Necessities and an environment champion who leads a zero-waste lifestyle. The session will focus on how you can produce lesser waste, and how you can better manage and recycle the day-to-day waste you generate.",
+        "genre": "ENVIRONMENT",
+        "event_genres": [],
+        "audience": "LARGER_GROUP",
+        "category": "B"
+    },
+    {
+        "id": "ckhluux6501i60798stwb0msv",
+        "title": "Your start to an Eco-friendly lifestyle",
+        "picture_url": "https://res.cloudinary.com/dajnwgqm8/image/upload/c_thumb,w_600/v1597952244/experiences/Your_start_to_an_Eco-friendly_lifestyle.jpg",
+        "description": "We all want to be more mindful of our environment and our carbon footprint, but it can be overwhelming to know where and how to start. This interactive workshop led by Sahar Mansoor helps you with just start! Your start and your initial steps into the world of a sustainable and eco-friendly lifestyle. The founder of Bare Necessities and an environment champion who leads a zero-waste lifestyle, Sahar will help you start your green journey in an easy and fun way by recommending simple product switches, and easy-to-adapt daily lifestyle choices.",
+        "genre": "ENVIRONMENT",
+        "event_genres": [],
+        "audience": "LARGER_GROUP",
+        "category": "B"
+    },
+    {
+        "id": "ckhluuvhv01a90798nzjsp52u",
+        "title": "Beatboxing Performance",
+        "picture_url": "http://res.cloudinary.com/dajnwgqm8/image/upload/v1610485131/mwch729zfs4w5ryxz0nm.jpg",
+        "description": "Beatboxing is a form of vocal percussion primarily involving the art of mimicking drum machines by using one's mouth, lips, tongue, and voice. You may feel like you're listening to a band play with an entire set of instruments, but its just one musician creating magic with his vocal chords! Enjoy this unique music form by India's leading beatboxing artists, from the comfort of your home.",
+        "genre": "ENTERTAINMENT",
+        "event_genres": [
+            {
+            "id": "ckj1xbwt9003q0710aijxtqq4",
+            "name": "Entertainment",
+            "__typename": "EventGenre"
+            }
+        ],
+        "audience": "LARGER_GROUP",
+        "category": "C"
+    },
+    {
+        "id": "ckhluuvid01ae0798plc3hf02",
+        "title": "Beatboxing Workshop",
+        "picture_url": "http://res.cloudinary.com/dajnwgqm8/image/upload/v1610485138/vdisrxn97nqofhs3c6sf.jpg",
+        "description": "Ever wondered how you can become a musician with no instrument? Then this session is for you! Beatboxing is a form of vocal percussion involving the art of mimicking drum machines by using one's mouth, lips, tongue, and voice. You may feel like you're listening to a band play with an entire set of instruments, but its just the magic created by vocal chords! Learn this unique music form from our experts, and spend a musical evening with your team.",
+        "genre": "ENTERTAINMENT",
+        "event_genres": [
+            {
+            "id": "ckj1xbwt9003q0710aijxtqq4",
+            "name": "Entertainment",
+            "__typename": "EventGenre"
+            }
+        ],
+        "audience": "SMALL_GROUP",
+        "category": "C"
+    },
+    {
+        "id": "ckhluuw0401ea0798xma3kcgz",
+        "title": "Live Music",
+        "picture_url": "http://res.cloudinary.com/dajnwgqm8/image/upload/v1610523574/u2lawr2q6ow8s8zqboli.jpg",
+        "description": "Enjoy a live music concert with your family from the comforts of your home. We have a host of singer-songwriters, guitarists and classical musicians with beautiful soothing tracks that will make your quaran'time' a happier, more comfortable and relaxing one.",
+        "genre": "ENTERTAINMENT",
+        "event_genres": [
+            {
+            "id": "ckj1xbwt9003q0710aijxtqq4",
+            "name": "Entertainment",
+            "__typename": "EventGenre"
+            }
+        ],
+        "audience": "LARGER_GROUP",
+        "category": "C"
+    },
+    {
+        "id": "ckhluuvz201e0079891epn06n",
+        "title": "Leadership Building",
+        "picture_url": "http://res.cloudinary.com/dajnwgqm8/image/upload/v1610485379/d31ubte3eur0fpqmel4y.jpg",
+        "description": "In this workshop, explore opportunities to practice critical thinking, creative thinking, and problem-solving skills in fun and interesting ways. Get your leaders working together toward a common goal and help demonstrate the various strengths of each team member while also building camaraderie.",
+        "genre": "EDUCATIONAL",
+        "event_genres": [
+            {
+            "id": "ckj1xbpk5003i07107ribb784",
+            "name": "Educational",
+            "__typename": "EventGenre"
+            }
+        ],
+        "audience": "SMALL_GROUP",
+        "category": "D"
+    },
+    {
+        "id": "ckhluuw1b01ek0798nddwynry",
+        "title": "Magic Show",
+        "picture_url": "http://res.cloudinary.com/dajnwgqm8/image/upload/v1610523595/odim8zetzorcgttq9p9o.jpg",
+        "description": "Here one second, and gone the next! Be amused, bewildered, surprised and amazed at these online live magic shows curated for you by some of the country's top magicians and theatre artists. Sit back and relax, and add some magic to your day. Set: 45 minutes",
+        "genre": "ENTERTAINMENT",
+        "event_genres": [
+            {
+            "id": "ckj1xbwt9003q0710aijxtqq4",
+            "name": "Entertainment",
+            "__typename": "EventGenre"
+            }
+        ],
+        "audience": "SMALL_GROUP",
+        "category": "D"
+    },
+    {
+        "id": "ckhluuw1v01ep0798m2bad82n",
+        "title": "Magic Workshop",
+        "picture_url": "http://res.cloudinary.com/dajnwgqm8/image/upload/v1610523607/gx4kfbbkab2qegf2pmzc.jpg",
+        "description": "Have you always wondered how a Magician has been able to guess the exact number that you thought of, pulled out the right card that you selected from the deck, or even made a rabbit appear out of nowhere? Here's your chance to learn! At this unique magic-workshop, learn the art of this beautiful illusion from some of India's leading magicians.",
+        "genre": "ENTERTAINMENT",
+        "event_genres": [
+            {
+            "id": "ckj1xbwt9003q0710aijxtqq4",
+            "name": "Entertainment",
+            "__typename": "EventGenre"
+            }
+        ],
+        "audience": "SMALL_GROUP",
+        "category": "D"
+    },
+    {
+        "id": "ckhluuwa801g307987k4qkajr",
+        "title": "Public Speaking Workshop",
+        "picture_url": "https://res.cloudinary.com/dajnwgqm8/image/upload/c_thumb,w_600/v1591688115/experiences/public-speaking.jpg",
+        "description": "What makes a good Orator, and how can you captivate your audience when you address them? At our exclusive public-speaking workshop, master the art of speaking confidently, tapping into your communicative strengths, and using your body language effectively to deliver your point to your audience.",
+        "genre": "EDUCATIONAL",
+        "event_genres": [],
+        "audience": "LARGER_GROUP",
+        "category": "D"
+    },
+    {
+        "id": "ckhluuwjk01gi0798zzdn99g6",
+        "title": "Stand up Comedy",
+        "picture_url": "https://res.cloudinary.com/dajnwgqm8/image/upload/c_thumb,w_600/v1589977169/experiences/standup-comedy.jpg",
+        "description": "In these crazy times, we could all use a little laughter. Enjoy live-comedy acts by some of India's finest up and coming comedians and make it a memorable team activity.",
+        "genre": "ENTERTAINMENT",
+        "event_genres": [],
+        "audience": "LARGER_GROUP",
+        "category": "D"
+    }
+]

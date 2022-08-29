@@ -23,6 +23,10 @@ a:hover {
   text-decoration: none;
 }
 
+p small {
+  line-height: 1;
+}
+
 /* h1,
 h2,
 h3,
@@ -1144,6 +1148,108 @@ section {
     margin-bottom: 2rem;
   }
 
+}
+
+#courses .course {
+  cursor: pointer;
+}
+
+#courses .course .img-card {
+  height: 375px;
+  border-radius: 1rem;
+  overflow: hidden;
+  margin-bottom: 1rem;
+  position: relative;
+}
+
+#courses .course .title {
+  font-weight: 700;
+  margin: 0.15rem;
+}
+
+#courses .course .description {
+  margin: 0;
+  font-size: 0.8rem;
+  font-weight: 300;
+}
+
+#courses .course .icon {
+  transition: all 0.15s ease-in-out;
+}
+
+#courses .course:hover .icon {
+  color: #ef7f4d;
+}
+
+#courses #events-row.active .course {
+  display: none;
+}
+
+#courses #events-row.active .course.active {
+  display: block;
+}
+
+#courses .course .img-card .slide-card {
+  background-size: cover;
+  background-position: center center;
+  background-color: rgb(242, 242, 242);
+  border: 1px solid #eee;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+#courses .course .img-card.active .slide-card {
+  animation: 16s autoplay infinite;
+}
+
+#courses .course .img-card.active .slide-card:nth-child(5) {
+  animation-delay: 0s
+}
+
+#courses .course .img-card.active .slide-card:nth-child(4) {
+  animation-delay: 3s
+}
+
+#courses .course .img-card.active .slide-card:nth-child(3) {
+  animation-delay: 6s
+}
+
+#courses .course .img-card.active .slide-card:nth-child(2) {
+  animation-delay: 9s
+}
+
+#courses .course .img-card.active .slide-card:nth-child(1) {
+  animation-delay: 12s
+}
+
+@keyframes autoplay {
+  0% {
+    display: block;
+    transform: scale(1);
+  }
+  33.3% {
+    display: block;
+    transform: scale(1.2);
+  }
+  33.33%, 100% {
+    display: none;
+    visibility: hidden;
+  }
+}
+
+@media (min-width: 768px) {
+  #courses .course:nth-child(n+5) {
+    margin-top: 3rem;
+  }
+}
+
+@media (max-width: 764px) {
+  #courses .course:nth-child(n+2) {
+    margin-top: 3rem;
+  }
 }
 
 /*--------------------------------------------------------------

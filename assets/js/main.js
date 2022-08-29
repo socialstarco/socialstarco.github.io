@@ -131,6 +131,14 @@
     select('#main').classList.toggle('monthly')
   })
 
+  // on('mouseenter', '#courses .course .img-card', function(e) {
+  //   this.classList.add('active');
+  // })
+
+  // on('mouseleave', '#courses .course .img-card', function(e) {
+  //   this.classList.remove('active');
+  // })
+
   /**
    * Scroll with ofset on page load with hash links in the url
    */
