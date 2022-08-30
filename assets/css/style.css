@@ -516,6 +516,7 @@ h6,
 section {
   padding: 60px 0;
   overflow: hidden;
+  position: relative;
 }
 
 .section-bg {
@@ -1331,7 +1332,7 @@ section {
 .contact .php-email-form {
   width: 100%;
   border-top: 3px solid #ff674f;
-  border-bottom: 3px solid #ff674f;
+  /* border-bottom: 3px solid #ff674f; */
   padding: 30px;
   background: #fff;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
@@ -1384,13 +1385,15 @@ section {
 }
 
 .contact .php-email-form input,
-.contact .php-email-form textarea {
+.contact .php-email-form textarea,
+.contact .php-email-form select {
   border-radius: 0;
   box-shadow: none;
   font-size: 0.875rem;
 }
 
-.contact .php-email-form input {
+.contact .php-email-form input,
+.contact .php-email-form select {
   height: 44px;
 }
 
