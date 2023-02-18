@@ -507,8 +507,8 @@ h6,
     height: initial;
   }
 
-  #hero h1 {
-    font-size: 1.75rem;
+  #hero h1, #hero2 h1, #hero3 h1 {
+    font-size: 2rem;
     line-height: 36px;
   }
 
@@ -523,6 +523,16 @@ h6,
 
   #hero video {
     height: 12.5rem;
+  }
+
+  #hero2 {
+    padding: 0;
+    background: none;
+  }
+  
+  #hero3 {
+    padding: 0;
+    background-image: none;
   }
 
 }
@@ -598,7 +608,7 @@ section {
 
 @media (max-width: 768px) {
   .section-title p {
-    font-size: 1.5rem;
+    font-size: 1.4rem;
   }
 }
 
@@ -681,7 +691,13 @@ section {
 
 @media (max-width: 767px) {
   .about .about-img img {
-    max-width: 90%;
+    max-width: 100%;
+  }
+  .about h3 {
+    font-size: 1.25rem;
+  }
+  .about p {
+    font-size: 0.8rem;
   }
 }
 
@@ -872,6 +888,10 @@ section {
 }
 
 .portfolio-details .portfolio-details-slider img {
+  width: 100%;
+}
+
+.swiper {
   width: 100%;
 }
 

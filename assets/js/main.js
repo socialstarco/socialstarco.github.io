@@ -217,7 +217,7 @@
     },
     slidesPerView: 'auto',
     pagination: {
-      el: '.swiper-pagination',
+      el: '.clients-slider .swiper-pagination',
       type: 'bullets',
       clickable: true
     },
@@ -238,6 +238,19 @@
         slidesPerView: 5,
         spaceBetween: 120
       }
+    }
+  });
+  new Swiper('.hero-slider', {
+    speed: 400,
+    loop: true,
+    autoplay: {
+      delay: 5000,
+      disableOnInteraction: false
+    },
+    pagination: {
+      el: '.hero-slider .swiper-pagination',
+      type: 'bullets',
+      clickable: true
     }
   });
 
